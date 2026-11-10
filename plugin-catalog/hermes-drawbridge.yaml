@@ -3,7 +3,7 @@ title: Hermes Drawbridge
 repo: https://github.com/sohomsahaun/hermes-drawbridge
 sha: 84c5c7cf959c75037d1ea88ead599ba639368185
 version: "0.1.0"
-description: Share a local folder with one Hermes chat and approve text edits from Hermes Desktop.
+description: Give your remote Hermes agent limited access to folders on your device.
 maintainer: sohomsahaun
 tier: community
 category: desktop
